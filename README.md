@@ -1,4 +1,4 @@
-# 📰 Article Sentiment & Readability Analyzer (Blackcoffer Case Study)
+# 📰 Article Sentiment & Readability Analyzer 
 
 This project analyzes articles by extracting **sentiment scores** and **readability metrics** to evaluate content quality.  
 It automates the workflow of scraping articles, cleaning text, performing sentiment analysis, and exporting results to Excel.  
